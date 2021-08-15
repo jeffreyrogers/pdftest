@@ -49,5 +49,3 @@ Then run `ninja -C out/static pdfium_all`, and the static library is in
 `out/static/obj/libpdfium.a`. Put it in a directory called `libs` and run
 the command in the Makefile to build the demo app
 
-~
-~
